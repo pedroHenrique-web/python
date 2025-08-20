@@ -8,3 +8,4 @@ print(9.4 // 5)
 #exponenciação
 print(2 ** 8)
 print(10 % 3)
+
