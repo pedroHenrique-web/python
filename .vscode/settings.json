@@ -3,6 +3,7 @@
 
         "editor.autoClosingBrackets": false,
         "editor.suggestOnTriggerCharacters": false,
+        "explorer.compactFolders": false,
     },
     "json.schemas": [
         
