@@ -1,9 +1,10 @@
 {
     "launch": {
+        "python.languageServer": "None",
+        "python.analysis.autoImportCompletions": false,
 
-        "editor.autoClosingBrackets": false,
-        "editor.suggestOnTriggerCharacters": false,
         "explorer.compactFolders": false,
+
     },
     "json.schemas": [
         
