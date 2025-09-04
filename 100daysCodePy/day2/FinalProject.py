@@ -1,7 +1,7 @@
 #imagine you are at a restaurant, the waiter brings the check and you decide how much you want to tip (10%, 12% or 15%), how many peoples have in your group and make the program that how much each person should pay.
 
 bill = float(input('how much was the bill? '))
-tip = float(input('how much do you want to pay for the type? 10, 12 or 15? '))
+tip = float(input('how much do you want to pay for the tip? 10, 12 or 15? '))
 peoples = int(input('how many peoples have in your group? '))
 
 

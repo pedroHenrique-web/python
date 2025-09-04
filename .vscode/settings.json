@@ -1,12 +1,14 @@
 {
-    "launch": {
-        "python.languageServer": "None",
-        "python.analysis.autoImportCompletions": false,
-
-        "explorer.compactFolders": false,
-
+    "python.languageServer": "None",
+    "python.analysis.autoImportCompletions": false,
+    "explorer.compactFolders": false,
+    "json.schemas": [],
+    "editor.quickSuggestions": {
+        "comments": "on",
+        "strings": "on",
+        "other": "on"
     },
-    "json.schemas": [
-        
-    ]
+    "editor.suggestOnTriggerCharacters": true,
+    "editor.wordBasedSuggestions": "matchingDocuments",
+    "editor.inlineSuggest.enabled": true
 }
